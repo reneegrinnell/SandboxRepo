@@ -1,5 +1,9 @@
 * {
-    padding: 120px;
     margin: 120px;
-    this-site-will-be-big: 500px;
+    this-site-will-be-tiny: 5px;
+}
+
+h2 {
+    font-family: arial;
+    color: black;
 }
